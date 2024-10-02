@@ -66,7 +66,7 @@ namespace Fraction_1_exercise_OOP
         {
             this.IntegerNum = IntegerNum;
             this.DoubleNum = doubleNum;
-            if (minus)
+            if (minus && this.IntegerNum > 0)
             {
                 this.IntegerNum = -this.IntegerNum;
             }

@@ -4,6 +4,21 @@
     "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
+    "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj",
+        "projectName": "Fraction_1_exercise_OOP",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +47,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

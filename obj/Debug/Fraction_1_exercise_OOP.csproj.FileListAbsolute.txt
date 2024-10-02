@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\bin\Debug\Fraction_1_exercise_OOP.dll
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\bin\Debug\Fraction_1_exercise_OOP.pdb
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\obj\Debug\Fraction_1_exercise_OOP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\obj\Debug\Fraction_1_exercise_OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\obj\Debug\Fraction_1_exercise_OOP.dll
+C:\Users\user\source\repos\Fraction_1_exercise_OOP\Fraction_1_exercise_OOP\obj\Debug\Fraction_1_exercise_OOP.pdb

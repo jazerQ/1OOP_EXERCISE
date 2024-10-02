@@ -377,6 +377,15 @@
             "related": ".xml"
           }
         }
+      },
+      "Fraction_1_exercise_OOP/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Fraction_1_exercise_OOP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fraction_1_exercise_OOP.dll": {}
+        }
       }
     }
   },
@@ -970,10 +979,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Fraction_1_exercise_OOP/1.0.0": {
+      "type": "project",
+      "path": "../Fraction_1_exercise_OOP/Fraction_1_exercise_OOP.csproj",
+      "msbuildProject": "../Fraction_1_exercise_OOP/Fraction_1_exercise_OOP.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Fraction_1_exercise_OOP >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -1013,7 +1028,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP\\Fraction_1_exercise_OOP.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
